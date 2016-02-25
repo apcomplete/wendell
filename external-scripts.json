@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-dropcam",
   "hubot-darksky",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-youtube"
 ]
