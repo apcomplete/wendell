@@ -4,6 +4,9 @@
   "private": true,
   "author": "Chris Moore <chrism@gaslight.co>",
   "description": "A simple helpful robot for Gaslight",
+  "peerDependencies": {
+    "hubot": "~2.17.0"
+  },
   "dependencies": {
     "hubot": "~2.17.0",
     "hubot-darksky": "~1.0.2",
@@ -20,7 +23,7 @@
     "hubot-shipit": "~0.2.0",
     "hubot-slack": "~3.4.2",
     "hubot-tell": "~1.2.4",
-    "hubot-youtube": "^1.0.1",
+    "hubot-youtube": "~1.0.1",
     "underscore": "~1.8.3",
     "xml2js": "~0.4.15"
   },
